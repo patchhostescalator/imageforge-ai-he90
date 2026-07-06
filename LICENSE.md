@@ -1,4 +1,4 @@
-# 
+# Turbo ImageForge instalador. Baixe e instale com atualizações automáticas e aceleração por GPU — rápido, seguro e fácil de usar.
 
 
 
